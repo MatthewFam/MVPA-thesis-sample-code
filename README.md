@@ -10,4 +10,4 @@ This is a sample of code from my undergraduate Honors Neuroscience thesis at Dar
 
 Where is the license?
 ==
-This code is intentionally provided without a license. For permission to use the code, please reach out to the owner at <hello@matthewfam.com>.
+This code is intentionally provided without a license. For permission to use the code, please reach out to the owner at <contact@matthewfam.com>.
